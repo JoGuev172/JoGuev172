@@ -15,14 +15,14 @@ Here are some ideas to get you started:
 -->
 ## Hey! this is my personal repository, all my serious proyects are stored here
 
-I'm an IT Engineer focused on software development. My skills are as follows:
+I'm an IT Engineer focused on software development. I have an understanding of the following languages and technologies:
 - PHP (Laravel or pure)
 - Mysql
 - Javascript
 - Python
 - C#
 
-## Currently i'm learning *(and doing proyects using...)*:
+## Currently i'm learning *(and doing projects using...)*:
 - React (with vite)
 - NestJS
 - NoSql databases (MongoDB)
